@@ -6,7 +6,7 @@ import java.util.Scanner;
     @author Harshaan Chugh
 */
 
-public class FileManagerTester_Chugh {
+public class FileManagerInterface {
     public static void main(String[] args) {
         LinkedList<EditableFile> files = new LinkedList<>();
         FileManager fileManager = new FileManager(files);
