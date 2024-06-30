@@ -13,12 +13,12 @@ To use the FileManager program, follow these simple steps:
 
 1. **Compile the Code**
    ```sh
-   javac FileManagerTester_Chugh.java
+   javac FileManagerInterface.java
    ```
 
 2. **Run the Program**
    ```sh
-   java FileManagerTester_Chugh
+   java FileManagerInterface
    ```
 ## Usage
 
